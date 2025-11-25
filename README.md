@@ -1,5 +1,4 @@
-# MIST 4610 - Group-Project 2 - Group-6
-
+# Team 6 Mist 4610 Group Project 2
 ## Team Members
 1. Kipras Kairys [@KiprasKairys](https://github.com/KiprasKairys)
 2. Diego Onate [@ado51234](https://github.com/ado51234)
@@ -29,3 +28,6 @@ This visualization shows the total number of fatalities associated with each col
 
 This visualization shows how fatal crash outcomes vary across different combinations of lighting and weather conditions in the FARS 2022 dataset. By comparing fatality counts under these environmental factors, we can quickly identify which conditions create the highest risk for drivers. The findings help highlight where road safety efforts should be focused, such as improving lighting infrastructure, issuing weather-related safety guidance, or enhancing driver awareness during hazardous conditions. The chart was created in Tableau using lighting, weather, and fatality data from FARS 2022.
 ![Image 11-16-25 at 6 50 PM](https://github.com/user-attachments/assets/48d8fa59-255c-48df-9751-d1c1d93693c0)
+
+## PowerPoint 
+[MIST 4610 Project 2.pptx](https://github.com/user-attachments/files/23679803/MIST.4610.Project.2.pptx)
